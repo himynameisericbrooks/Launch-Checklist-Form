@@ -5,6 +5,15 @@ h1 {
 div {
     text-align: left;
 }
+.output {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    text-decoration: none;
+}
 
 #faultyItems {
     visibility: hidden;   
